@@ -1,7 +1,7 @@
 # Tiger Bank
 Simple bank console app created with C#, Spectre.Console, Dapper, PostgreSQL and DbGate.
 
-This project is part of an Agile Working course together with @Abfar90, @Slipzter and @FreeHugZz.
+This project is part of an Agile Working course together with [@Abfar90](https://github.com/Abfar90), [@Slipzter](https://github.com/Slipzter)(me) and [@FreeHugZz](https://github.com/FreeHugZz).
 
 
 ## General Info
