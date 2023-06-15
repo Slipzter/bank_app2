@@ -1,5 +1,5 @@
 # Tiger Bank
-Simple bank console app created with C#, Spectre.Console, Dapper, PostgreSQL and DbGate.
+Bank console app created with C#, Spectre.Console, Dapper, PostgreSQL and DbGate.
 
 This project is part of an Agile Working course together with [@Abfar90](https://github.com/Abfar90), [@Slipzter](https://github.com/Slipzter)(me) and [@FreeHugZz](https://github.com/FreeHugZz).
 
@@ -52,10 +52,6 @@ The "UI" folder contains the menus shown in the console app, login logic as well
 
 From here the main run function is called to run the application.
 
-### Flowchart
-
-* [Link Google Drive](https://drive.google.com/file/d/1JkZSbX0GtFmuHuBuBUc7mL0IaeXwHLqw/view)
-
 ### UML Diagram
 
 * [Link to Google Drive](https://drive.google.com/file/d/1vQCeu-K2J1Fc-qbsBWSIx2MGAxsK7aLp/view)
@@ -65,7 +61,3 @@ From here the main run function is called to run the application.
 We used Trello as our platform to work with both Scrum and Kanban methods in this project.
 
 * [Link to Trello](https://trello.com/b/JPEY79RS/grupp-tiger)
-
-### Documentation
-
-* [Link to Google Docs](https://docs.google.com/document/d/1PXuPlDIb2KL5CljzvGSZehhklAQ95fgmnQBlaUXjZ2c/edit#heading=h.p3k3bvy20e9)
