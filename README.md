@@ -1,5 +1,5 @@
 # Tiger Bank
-Bank console app created with C#, Spectre.Console, Dapper, PostgreSQL and DbGate.
+Bank console app created with C#, Spectre.Console, Dapper and PostgreSQL.
 
 
 Made by [@Abfar90](https://github.com/Abfar90), [@Slipzter](https://github.com/Slipzter)(me) and [@FreeHugZz](https://github.com/FreeHugZz).
